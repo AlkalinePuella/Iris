@@ -5,7 +5,7 @@ zh_CN
 
 # Iris Beta1
 
-> #2026 AlkalinePuella（碱式少女）仅保留著作权。遵循 MIT 协议。  
+> #2026 AlcalinusPuella（碱式少女）仅保留著作权。遵循 MIT 协议。  
 > Beta 版本意味着可能会出现不稳定的情况，或者产生意料之外的输出。Beta 版的内容未来可能会被更新。  
 > 时间匆忙，未进行完善的 Debug。
 
@@ -68,7 +68,7 @@ Iris 内置的函数允许你以一种特殊的格式在一个字符串中传递
 en
 
 **Iris Beta1**  
-#2026 AlkalinePuella (Alkaline Girl) retains copyright only. Licensed under the MIT License.  
+#2026 AlcalinusPuella (Alkaline Girl) retains copyright only. Licensed under the MIT License.  
 #Beta version means that there may be instability or unexpected outputs. The content of the Beta version may be updated in the future.  
 #Due to time constraints, thorough debugging has not been completed.
 
@@ -105,7 +105,7 @@ Specifically, keys and values in a key‑value group cannot contain angle bracke
 zh_CN Original
 
 IrisBeta1
-#2026 AlkalinePuella（碱式少女）仅保留著作权。遵循MIT协议。
+#2026 AlcalinusPuella（碱式少女）仅保留著作权。遵循MIT协议。
 #Beta版本意味着可能会出现不稳定的情况，或者产生意料之外的输出。Beta版的内容未来可能会被更新。
 
 #时间匆忙，未进行完善的Debug。
