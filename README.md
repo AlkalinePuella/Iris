@@ -1,4 +1,4 @@
-以下内容部分不适用于原始版本。Some of the following content does not apply to the Legacy version.
+以下内容部分不适用于原始（Legacy）版本。Some of the following content does not apply to the Legacy version.
 
 
 zh_CN
